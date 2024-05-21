@@ -15,7 +15,7 @@ SSH Honeypot using Python
 ## Installation
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ssh-honeypot.git
+    git clone https://github.com/Tharbouch/ssh-honeypot.git
     cd ssh-honeypot
     ```
 
